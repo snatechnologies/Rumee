@@ -1,0 +1,19 @@
+{
+  "name": "Rumee — Indian Rummy",
+  "short_name": "Rumee",
+  "description": "Private 13-card Indian rummy with friends. 3 decks, 7 rounds.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#052e16",
+  "theme_color": "#052e16",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#052e16"/>
+  <rect x="116" y="86" width="200" height="280" rx="24" fill="#f8fafc" transform="rotate(-12 216 226)"/>
+  <rect x="196" y="106" width="200" height="280" rx="24" fill="#ffffff" stroke="#d1d5db" stroke-width="6" transform="rotate(8 296 246)"/>
+  <text x="276" y="220" font-family="Georgia, serif" font-size="90" font-weight="bold" fill="#dc2626" transform="rotate(8 296 246)">A</text>
+  <text x="270" y="300" font-family="Georgia, serif" font-size="80" fill="#dc2626" transform="rotate(8 296 246)">♥</text>
+  <text x="150" y="200" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#111827" transform="rotate(-12 216 226)">K</text>
+  <text x="148" y="272" font-family="Georgia, serif" font-size="64" fill="#111827" transform="rotate(-12 216 226)">♠</text>
+  <text x="136" y="446" font-family="Arial, sans-serif" font-size="88" font-weight="900" fill="#34d399" letter-spacing="6">RUMEE</text>
+</svg>
